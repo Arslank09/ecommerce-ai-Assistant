@@ -64,7 +64,6 @@ component, and control its `open` state from any button.
 | `LLM_BASE_URL` | OpenAI-compatible endpoint | `https://api.groq.com/openai/v1` |
 | `LLM_API_KEY`  | your provider key | `gsk_...` |
 | `LLM_MODEL`    | model name | `llama-3.1-8b-instant` |
-| `GOSELLR_API_URL` | store backend base URL | `http://localhost:3002` |
 
 ## Notes
 
